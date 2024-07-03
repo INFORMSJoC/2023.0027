@@ -24,9 +24,9 @@ Below is the BibTex for citing this snapshot of the repository.
 
 ```
 @misc{CacheTest,
-  author =        {T. Ralphs},
+  author =        {H. Zhong, F. Mahdavi Pajouh, S. Butenko, O.A. Prokopyev},
   publisher =     {INFORMS Journal on Computing},
-  title =         {{CacheTest}},
+  title =         {{On interdicting dense clusters in a network}},
   year =          {2024},
   doi =           {10.1287/ijoc.2019.0000.cd},
   url =           {https://github.com/INFORMSJoC/2019.0000},
