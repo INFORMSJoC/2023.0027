@@ -1,6 +1,6 @@
 [![INFORMS Journal on Computing Logo](https://INFORMSJoC.github.io/logos/INFORMS_Journal_on_Computing_Header.jpg)](https://pubsonline.informs.org/journal/ijoc)
 
-# CacheTest
+# On interdicting dense clusters in a network
 
 This archive is distributed in association with the [INFORMS Journal on
 Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](LICENSE).
@@ -28,13 +28,13 @@ Below is the BibTex for citing this snapshot of the repository.
 
 ```
 @misc{CacheTest,
-  author =        {T. Ralphs},
+  author =        {H. Zhong,F. Mahdavi Pajouh,S. Butenko, O. A. Prokopyev},
   publisher =     {INFORMS Journal on Computing},
-  title =         {{CacheTest}},
-  year =          {2020},
+  title =         {{On interdicting dense clusters in a network}},
+  year =          {2024},
   doi =           {10.1287/ijoc.2019.0000.cd},
-  url =           {https://github.com/INFORMSJoC/2019.0000},
-  note =          {Available for download at https://github.com/INFORMSJoC/2019.0000},
+  url =           {https://github.com/INFORMSJoC/2023.0027},
+  note =          {Available for download at https://github.com/INFORMSJoC/2023.0027},
 }  
 ```
 
