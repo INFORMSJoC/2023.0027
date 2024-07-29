@@ -5,12 +5,8 @@
 This archive is distributed in association with the [INFORMS Journal on
 Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](LICENSE).
 
-The data in this repository are a snapshot of the data
-that were used in the research reported on in the paper 
-[This is a Template](https://doi.org/10.1287/ijoc.2023.0027) by Zhong et. al.. 
-The snapshot is based on 
-[this SHA](https://github.com/tkralphs/JoCTemplate/commit/f7f30c63adbcb0811e5a133e1def696b74f3ba15) 
-in the development repository. 
+The data in this repository were used in the research reported on in the paper 
+[On interdicting dense clusters in a network](https://doi.org/10.1287/ijoc.2023.0027) by Zhong et al. 
 
 ## Cite
 
